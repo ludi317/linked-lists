@@ -1,0 +1,1 @@
+> It should be noted that the authentic Rust learning experience involves writing code, having the compiler scream at you, and trying to figure out what the heck that means. I will be carefully ensuring that this occurs as frequently as possible. 
